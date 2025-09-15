@@ -8,5 +8,6 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./Materials"
+  "attachmentFolderPath": "./Materials",
+  "newLinkFormat": "relative"
 }

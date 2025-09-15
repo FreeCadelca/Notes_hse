@@ -11,12 +11,14 @@
             "id": "97d4f845155e2ea8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pentest/Materials/Pasted image 20250913133735.png"
+                "file": "Pentest/Lect2. Разведка и сбор информации о цели.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250913133735"
+              "icon": "lucide-file",
+              "title": "Lect2. Разведка и сбор информации о цели"
             }
           }
         ]
@@ -178,12 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f87b8a69eb53cb58",
+  "active": "97d4f845155e2ea8",
   "lastOpenFiles": [
+    "Pentest/Materials/Pasted image 20250913133735.png",
     "Pentest/Materials.zip",
     "Pentest/Materials/Pasted image 20250913134702.png",
     "Pentest/Materials/Pasted image 20250913134011.png",
-    "Pentest/Materials/Pasted image 20250913133735.png",
     "Pentest/Materials/Pasted image 20250913120613.jpeg",
     "Pentest/Materials/Pasted image 20250913120509.jpeg",
     "Pentest/Materials/Pasted image 20250913120242.jpeg",
@@ -208,7 +210,6 @@
     "Pentest",
     "IAD/Lect2/Materials",
     "IAD",
-    "English/Textbook/Unit_1_New_Language_Leader_Int.pdf",
     "2025-09-10.md",
     "Guide md.md"
   ]
