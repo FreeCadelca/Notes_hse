@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "9a51f70d5bf2a761",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24135d76f3468c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97d4f845155e2ea8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pentest/Materials/Pasted image 20250913133735.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250913133735"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbf9f9d5b977bd9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "578f3e7f94d6d3ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "438435b853db6a59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "884b776985c0c7b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f5b3d7d78a93ccec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "9fb8133ec118a423",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae94f6414855ed2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039ce4e1742d4251",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pentest/Materials/Pasted image 20250913133735.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20250913133735"
+            }
+          },
+          {
+            "id": "f316cfdfe82e5225",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pentest/Materials/Pasted image 20250913133735.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20250913133735"
+            }
+          },
+          {
+            "id": "72bd711f58e9fc9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "132326c02b0213b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pentest/Materials/Pasted image 20250913133735.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20250913133735"
+            }
+          },
+          {
+            "id": "f87b8a69eb53cb58",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f87b8a69eb53cb58",
+  "lastOpenFiles": [
+    "Pentest/Materials.zip",
+    "Pentest/Materials/Pasted image 20250913134702.png",
+    "Pentest/Materials/Pasted image 20250913134011.png",
+    "Pentest/Materials/Pasted image 20250913133735.png",
+    "Pentest/Materials/Pasted image 20250913120613.jpeg",
+    "Pentest/Materials/Pasted image 20250913120509.jpeg",
+    "Pentest/Materials/Pasted image 20250913120242.jpeg",
+    "Pentest/Materials/Pasted image 20250913120057.jpeg",
+    "Pentest/Materials/Pasted image 20250913115903.jpeg",
+    "Pentest/Materials/Pasted image 20250913115751.jpeg",
+    "Pentest/Materials/Pasted image 20250913115700.jpeg",
+    "Pentest/Lect2. Разведка и сбор информации о цели.md",
+    "IAD/Sem1.md",
+    "Economics/Lect2/Lect2.md",
+    "IAD/Lect2",
+    "Economics/Lect2",
+    "Pentest/Sem1.md",
+    "Pentest/Lect3. Основы работы веб-приложений.md",
+    "Pentest/Lect1. Введение.md",
+    "ObsVault",
+    "Новая папка",
+    "Untitled.canvas",
+    "Untitled.base",
+    "IAD/Lect2/Lect2.md",
+    "Pentest/Materials",
+    "Pentest",
+    "IAD/Lect2/Materials",
+    "IAD",
+    "English/Textbook/Unit_1_New_Language_Leader_Int.pdf",
+    "2025-09-10.md",
+    "Guide md.md"
+  ]
+}
