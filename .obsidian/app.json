@@ -32,5 +32,8 @@
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
     "editor:configure-toolbar"
-  ]
+  ],
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible"
 }
