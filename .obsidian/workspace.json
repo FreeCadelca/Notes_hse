@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 225.5
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -180,12 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "438435b853db6a59",
+  "active": "97d4f845155e2ea8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
     "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md~",
     "Pentest/Materials.zip",
     "Pentest/Lect1/Materials/Pasted image 20250912223447.jpeg",
-    "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
     "Pentest/Lect1/Materials/Pasted image 20250913103402.jpeg",
     "Pentest/Lect1/Materials/Pasted image 20250913104334.jpeg",
     "Pentest/Lect1/Materials/Pasted image 20250913104348.jpeg",
@@ -207,7 +208,6 @@
     "Pentest/Lect1",
     "IAD/Sem1.md",
     "Economics/Lect2/Lect2.md",
-    "IAD/Lect2",
     "Pentest/Lect1/Lect1. Введение.md",
     "Untitled.canvas",
     "IAD/Lect2/Lect2.md",
