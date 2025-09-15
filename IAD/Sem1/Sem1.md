@@ -3,7 +3,7 @@
 > y.backward() -> считает производные выхода по входу
 
 torchviz - чтобы рисовать деревья
-![[Pasted image 20250911134758.jpeg]]
+![[Materials/Pasted image 20250911134758.jpeg]]
 
 > x.grad - градиент тензора
 
