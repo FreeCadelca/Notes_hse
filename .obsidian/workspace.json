@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "98c4399d828f0f65",
+        "id": "48e5e8b62aba1328",
         "type": "tabs",
         "children": [
           {
-            "id": "301e59e123f8e8fb",
+            "id": "ef5ab21119a50cd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
+                "file": "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect3. Основы работы веб-приложений"
+              "title": "Lect3 - CN2 - Свёрточные сети"
+            }
+          },
+          {
+            "id": "e1771a985e8e1b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lect3 - CN2 - Свёрточные сети"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 357.5
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -166,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,37 +195,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "301e59e123f8e8fb",
+  "active": "e1771a985e8e1b03",
   "lastOpenFiles": [
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192970521.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192949039.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192899299.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192829658.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192769527.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192760136.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192655613.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192540557.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192402419.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192328048.jpeg",
+    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758192045544.jpeg",
+    "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
+    "IAD/Lect2/Lect2 - CN.md",
+    "IAD/Lect3/Materials",
+    "IAD/Lect3",
+    "Economics/Lect2/Lect2.md",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
     "Untitled.md",
-    "Pentest/Lect3/Materials/Lect3. Основы работы веб-приложений-1757945077259.jpeg",
-    "Pentest/Lect3/Materials/Lect3. Основы работы веб-приложений-1757944790102.jpeg",
     "Pentest/Sem1/Sem1.md",
-    "Economics/Lect2/Lect2.md",
     "IAD/Sem1/Sem1.md",
-    "IAD/Sem1/Materials/Pasted image 20250911134758.jpeg",
-    "IAD/Lect2/Materials/Pasted image 20250911192136.jpeg",
     "IAD/Sem1/Materials",
-    "IAD/Lect2/Materials/Pasted image 20250911182131.jpeg",
-    "IAD/Lect2/Materials/Pasted image 20250911191338.jpeg",
-    "IAD/Lect2/Materials/Pasted image 20250911191729.jpeg",
     "Pentest/Lect1/Lect1. Введение.md",
     "IAD/Sem1",
     "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
-    "Pentest/Lect2/Materials/Pasted image 20250913104334.jpeg",
-    "Pentest/Lect2/Materials/Pasted image 20250913104348.jpeg",
-    "Pentest/Lect2/Materials/Pasted image 20250913103402.jpeg",
     "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md~",
     "Pentest/Materials.zip",
     "Pentest/Sem1/Materials",
     "Pentest/Sem1",
     "Pentest/Lect3/Materials",
     "Pentest/Lect2/Materials",
-    "Pentest/Lect1/Materials",
-    "Pentest/Lect3",
     "Untitled.canvas",
-    "IAD/Lect2/Lect2.md",
     "2025-09-10.md",
     "Guide md.md"
   ]
