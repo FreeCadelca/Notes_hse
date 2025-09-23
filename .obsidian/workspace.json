@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
+                "file": "Economics/Lect3/Lect3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect4. SQLi. Часть 1"
+              "title": "Lect3"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -182,37 +183,39 @@
   },
   "active": "e1771a985e8e1b03",
   "lastOpenFiles": [
-    "Pentest/Lect4/Materials/Pasted image 20250920184935.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758617863805.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758617815825.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758617304704.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758617247215.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758616820538.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758616712720.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758616613752.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758616518229.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758616374396.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758616311659.jpeg",
+    "Economics/Lect3/Materials/Lect3-1758616261904.jpeg",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
+    "Economics/Lect3/Lect3.md",
+    "Economics/Lect3/Materials",
+    "Economics/Lect3",
     "Pentest/Sem2/Sem2.md",
-    "Pentest/Lect4/Materials/Lect4. SQLi. Часть 1-1758578971032.jpeg",
-    "Pentest/Lect4/Materials/Lect4. SQLi. Часть 1-1758577594337.jpeg",
-    "Pentest/Lect4/Materials/Lect4. SQLi. Часть 1-1758574186608.jpeg",
     "IAD/Sem2/Sem2.md",
     "Guide md.md",
     "Pentest/Lect4/Materials",
     "Pentest/Lect4",
-    "Pentest/Sem2/Materials/Sem2-1758359302347.jpeg",
-    "Pentest/Sem2/Materials/Sem2-1758358400200.jpeg",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
     "Pentest/Sem2/Materials",
     "Alg/Todo.md",
     "Pentest/Sem2",
     "Alg",
-    "IAD/Sem2/Materials/Sem2-1758202542136.jpeg",
-    "IAD/Sem2/Materials/Sem2-1758202433036.jpeg",
     "IAD/Sem2/Materials",
     "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
     "IAD/Sem2",
-    "IAD/Lect3/Materials/Lect3 - CN2 - Свёрточные сети-1758197628908.jpeg",
-    "IAD/Lect3/Materials/Lect3 - CV2 - Свёрточные сети-1758190184454.jpeg",
     "IAD/Lect2/Lect2 - CN.md",
     "IAD/Lect3/Materials",
-    "IAD/Lect3",
     "Economics/Lect2/Lect2.md",
     "Pentest/Sem1/Sem1.md",
     "IAD/Sem1/Sem1.md",
-    "IAD/Sem1/Materials",
     "Pentest/Lect1/Lect1. Введение.md",
     "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
     "Untitled.canvas",
