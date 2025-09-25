@@ -1,70 +1,32 @@
-disjoint set union
+Binsearch
 
+Prefix sums
 
+2 pointer
 
-200 4
-150 10
-140 4
-130 6
-120 3
-110 1
-100 7
+stacks, queues, deques
 
-=10 **(1050)**
+trees:
+- simple trees
+- red-black trees
+- amortisated trees
 
-(
-130 2
-110 5
-100 0
-)
+[DSU - Disjoint set union](DSU_DisjointSetUnion/DSU%20-%20Disjoint%20set%20union.md)
 
-200 4
-150 10
-140 4
-130 2
-120 3
-110 5
+graphs:
+- dfs
+- bfs
+- min-path
+	- dijkstra
+	- Bellman-ford
+	- Floyd–Warshall
+	- A*
+- Minimum spanning tree (MST)
+	- Prim
+	- Kruskal
+- Finding of bridges
+- Topological sort
+	- Kahn's algorithm
+	- Depth-first search
 
-=8 (910)
-
-(
-90 5
-)
-
-200 4
-150 10
-140 4
-130 2
-120 3
-110 5
-90 5
-=4 (360)
-
-(
-150 9
-120 1
-90 1
-)
-
-200 4
-150 9
-140 4
-130 2
-120 1
-110 5
-90 1
-=26 (3730)
-
-(
-90 2
-)
-
-200 4
-150 9
-140 4
-130 2
-120 1
-110 5
-90 2
-=2 (180)
-
+dynamical programming
