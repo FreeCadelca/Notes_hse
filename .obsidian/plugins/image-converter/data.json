@@ -227,7 +227,7 @@
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
   "neverProcessFilenames": "",
-  "modalBehavior": "never",
+  "modalBehavior": "always",
   "singleImageModalSettings": {
     "conversionPresetName": "Webp65",
     "outputFormat": "JPEG",
@@ -361,5 +361,9 @@
   "captionLetterSpacing": "normal",
   "captionBorder": "none",
   "captionMarginTop": "4px",
-  "captionAlignment": "center"
+  "captionAlignment": "center",
+  "modalSessionState": {
+    "customFolderOverride": "",
+    "customFilenameOverride": "{notename}-{timestamp}"
+  }
 }

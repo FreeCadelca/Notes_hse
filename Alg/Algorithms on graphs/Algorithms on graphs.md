@@ -1,0 +1,14 @@
+- [DFS](DFS/DFS.md)
+- [BFS](BFS/BFS.md)
+- min-path
+	- dijkstra
+	- Bellman-ford
+	- Floyd–Warshall
+	- A*
+- Minimum spanning tree (MST)
+	- Prim
+	- Kruskal
+- Finding of bridges
+- Topological sort
+	- Kahn's algorithm
+	- Depth-first search
