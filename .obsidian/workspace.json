@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHT/Sem4/Sem4.md",
+                "file": "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem4"
+              "title": "Lect5 - Серверные уязвимости"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "5a6164ab04e78b51",
   "lastOpenFiles": [
-    "Pentest/Sem3/Sem3.md",
     "SHT/Sem4/Sem4.md",
+    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
+    "Pentest/Lect5",
+    "Pentest/Sem3/Sem3.md",
     "SHT/Sem4",
     "SHT",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
@@ -210,7 +212,6 @@
     "Alg/Algorithms on graphs/BFS/Materials/BFS-1758825467915.gif",
     "Alg/Algorithms on graphs/BFS/Materials",
     "Alg/Algorithms on graphs/BFS",
-    "Alg/Algorithms on graphs",
     "Alg/DSU_DisjointSetUnion/Materials/DSU - Disjoint set union-1758819426924.jpeg",
     "Alg/DSU_DisjointSetUnion/Materials/DSU - Disjoint set union-1758804967441.jpeg",
     "IAD/Sem3/Sem3.md",
