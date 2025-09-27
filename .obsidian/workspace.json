@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Sem3/Sem3.md",
+                "file": "SHT/Sem4/Sem4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem3"
+              "title": "Sem4"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "5a6164ab04e78b51",
   "lastOpenFiles": [
-    "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "Pentest/Sem3/Sem3.md",
+    "SHT/Sem4/Sem4.md",
+    "SHT/Sem4",
+    "SHT",
+    "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
     "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
     "Pentest/Lect1/Lect1. Введение.md",
@@ -213,8 +216,6 @@
     "IAD/Sem3/Sem3.md",
     "IAD/Sem3/Materials/Sem3-1758808303821.png",
     "IAD/Sem3/Materials/Sem3-1758808097962.png",
-    "IAD/Sem3/Materials",
-    "IAD/Sem3",
     "Materials/DSU.md",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
