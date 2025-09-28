@@ -119,7 +119,7 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "jpeg20",
+  "selectedConversionPreset": "jpeg35",
   "globalPresets": [
     {
       "name": "WebP 75",
@@ -227,7 +227,7 @@
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
   "neverProcessFilenames": "",
-  "modalBehavior": "always",
+  "modalBehavior": "never",
   "singleImageModalSettings": {
     "conversionPresetName": "Webp65",
     "outputFormat": "JPEG",

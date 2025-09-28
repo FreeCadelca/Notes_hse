@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc9047043ba17eb2",
+        "id": "2076b74e483362b4",
         "type": "tabs",
         "children": [
           {
-            "id": "5a6164ab04e78b51",
+            "id": "50eb6521d7f8121e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lect5 - Серверные уязвимости"
+              "title": "New tab"
             }
           }
         ]
@@ -180,12 +176,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a6164ab04e78b51",
+  "active": "438435b853db6a59",
   "lastOpenFiles": [
-    "SHT/Sem4/Sem4.md",
-    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
-    "Pentest/Lect5",
     "Pentest/Sem3/Sem3.md",
+    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759060557478.jpeg",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759060394442.jpeg",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759072457877.jpeg",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759071095811.jpeg",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759070928576.jpeg",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759070424333.jpeg",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759070405663.jpeg",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759066863918.jpeg",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759066840089.jpeg",
+    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759066576907.jpeg",
+    "Pentest/Lect5/Materials",
+    "SHT/Sem4/Sem4.md",
+    "Pentest/Lect5",
     "SHT/Sem4",
     "SHT",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
@@ -196,27 +203,16 @@
     "Pentest/Sem1/Sem1.md",
     "Pentest/Hw1/Untitled.md",
     "Pentest/Hw1",
-    "Pentest/Sem1/Materials/Sem1-1758884344191.png",
     "Alg/DSU_DisjointSetUnion/DSU - Disjoint set union.md",
     "Alg/Algorithms list.md",
     "Alg/Algorithms on graphs/Algorithms on graphs.md",
     "Alg/Algorithms on graphs/DFS/DFS.md",
     "Alg/Algorithms on graphs/BFS/BFS.md",
-    "Alg/Algorithms on graphs/Materials/Algorithms on graphs-1758826057086.png",
     "Alg/Algorithms on graphs/ыы",
-    "Alg/Algorithms on graphs/DFS/Materials/DFS-1758825549308.gif",
-    "Alg/Graphs/DFS/Materials/DFS-1758825532812.png",
-    "Alg/Graphs/DFS/Materials/DFS-1758825512876.png",
     "Alg/Algorithms on graphs/DFS/Materials",
     "Alg/Algorithms on graphs/DFS",
-    "Alg/Algorithms on graphs/BFS/Materials/BFS-1758825467915.gif",
     "Alg/Algorithms on graphs/BFS/Materials",
-    "Alg/Algorithms on graphs/BFS",
-    "Alg/DSU_DisjointSetUnion/Materials/DSU - Disjoint set union-1758819426924.jpeg",
-    "Alg/DSU_DisjointSetUnion/Materials/DSU - Disjoint set union-1758804967441.jpeg",
     "IAD/Sem3/Sem3.md",
-    "IAD/Sem3/Materials/Sem3-1758808303821.png",
-    "IAD/Sem3/Materials/Sem3-1758808097962.png",
     "Materials/DSU.md",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
@@ -227,7 +223,6 @@
     "IAD/Lect2/Lect2 - CN.md",
     "Economics/Lect2/Lect2.md",
     "IAD/Sem1/Sem1.md",
-    "Untitled.canvas",
-    "2025-09-10.md"
+    "Untitled.canvas"
   ]
 }
