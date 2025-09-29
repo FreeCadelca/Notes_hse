@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2076b74e483362b4",
+        "id": "9a9c9650be9677c8",
         "type": "tabs",
         "children": [
           {
-            "id": "50eb6521d7f8121e",
+            "id": "856d447b86d1fc54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Lect4/Lect4. Производство, издержки и прибыль.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lect4. Производство, издержки и прибыль"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -176,22 +181,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "438435b853db6a59",
+  "active": "856d447b86d1fc54",
   "lastOpenFiles": [
-    "Pentest/Sem3/Sem3.md",
-    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759060557478.jpeg",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759060394442.jpeg",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759072457877.jpeg",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759071095811.jpeg",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759070928576.jpeg",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759070424333.jpeg",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759070405663.jpeg",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759066863918.jpeg",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759066840089.jpeg",
-    "Pentest/Lect5/Materials/Lect5 - Серверные уязвимости-1759066576907.jpeg",
-    "Pentest/Lect5/Materials",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182691830.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182678083.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182532944.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182416748.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182396496.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182229480.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182168882.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182071303.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759181694108.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759181664280.jpeg",
+    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759180263032.jpeg",
+    "Economics/Lect4/Materials",
+    "Economics/Lect2/Lect2.md",
+    "Economics/Lect4/Lect4. Производство, издержки и прибыль.md",
+    "Economics/Lect4",
+    "tmp.md",
+    "Economics/Lect3/Lect3.md",
     "SHT/Sem4/Sem4.md",
+    "Guide md.md",
+    "Alg/Algorithms list.md",
+    "Alg/Algorithms on graphs/Algorithms on graphs.md",
+    "Alg/DSU_DisjointSetUnion/DSU - Disjoint set union.md",
+    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
+    "Pentest/Sem3/Sem3.md",
+    "Pentest/Lect5/Materials",
     "Pentest/Lect5",
     "SHT/Sem4",
     "SHT",
@@ -203,26 +219,16 @@
     "Pentest/Sem1/Sem1.md",
     "Pentest/Hw1/Untitled.md",
     "Pentest/Hw1",
-    "Alg/DSU_DisjointSetUnion/DSU - Disjoint set union.md",
-    "Alg/Algorithms list.md",
-    "Alg/Algorithms on graphs/Algorithms on graphs.md",
     "Alg/Algorithms on graphs/DFS/DFS.md",
     "Alg/Algorithms on graphs/BFS/BFS.md",
     "Alg/Algorithms on graphs/ыы",
     "Alg/Algorithms on graphs/DFS/Materials",
-    "Alg/Algorithms on graphs/DFS",
-    "Alg/Algorithms on graphs/BFS/Materials",
     "IAD/Sem3/Sem3.md",
     "Materials/DSU.md",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
-    "Guide md.md",
-    "Economics/Lect3/Lect3.md",
     "Pentest/Sem2/Sem2.md",
     "IAD/Sem2/Sem2.md",
-    "IAD/Lect2/Lect2 - CN.md",
-    "Economics/Lect2/Lect2.md",
-    "IAD/Sem1/Sem1.md",
     "Untitled.canvas"
   ]
 }
