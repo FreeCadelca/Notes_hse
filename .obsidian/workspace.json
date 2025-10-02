@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAD/Lect5/Lect5.md",
+                "file": "IAD/Sem4/Sem4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect5"
+              "title": "Sem4"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 221.5
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +182,12 @@
   },
   "active": "856d447b86d1fc54",
   "lastOpenFiles": [
+    "IAD/Sem4/Materials/Sem4-1759412390718.jpeg",
+    "IAD/Sem4/Materials",
+    "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
+    "IAD/Sem4/Sem4.md",
+    "IAD/Sem4",
+    "IAD/Lect5/Lect5.md",
     "IAD/Lect5/Materials/Lect5-1759403859222.jpeg",
     "IAD/Lect5/Materials/Lect5-1759403778302.jpeg",
     "IAD/Lect5/Materials/Lect5-1759403461354.jpeg",
@@ -192,10 +198,7 @@
     "IAD/Lect5/Materials/Lect5-1759402659952.jpeg",
     "IAD/Lect5/Materials/Lect5-1759402229280.jpeg",
     "IAD/Lect5/Materials/Lect5-1759401888151.jpeg",
-    "IAD/Lect5/Materials/Lect5-1759400997998.jpeg",
     "IAD/Lect5/Materials",
-    "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
-    "IAD/Lect5/Lect5.md",
     "IAD/Lect5",
     "tmp.md",
     "Alg/Algorithms list.md",
@@ -217,17 +220,14 @@
     "SHT",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
-    "Pentest/Sem3",
     "Pentest/Sem1/Sem1.md",
     "Pentest/Hw1/Untitled.md",
-    "Pentest/Hw1",
     "Alg/Algorithms on graphs/DFS/DFS.md",
     "Alg/Algorithms on graphs/BFS/BFS.md",
     "IAD/Sem3/Sem3.md",
     "Materials/DSU.md",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
-    "Pentest/Sem2/Sem2.md",
     "Untitled.canvas"
   ]
 }
