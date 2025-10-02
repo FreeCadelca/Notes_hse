@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Lect4/Lect4. Производство, издержки и прибыль.md",
+                "file": "IAD/Lect5/Lect5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect4. Производство, издержки и прибыль"
+              "title": "Lect5"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -183,26 +182,31 @@
   },
   "active": "856d447b86d1fc54",
   "lastOpenFiles": [
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182691830.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182678083.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182532944.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182416748.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182396496.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182229480.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182168882.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759182071303.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759181694108.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759181664280.jpeg",
-    "Economics/Lect4/Materials/Lect4. Производство, издержки и прибыль-1759180263032.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759403859222.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759403778302.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759403461354.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759403371592.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759403272232.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759403084182.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759402822026.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759402659952.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759402229280.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759401888151.jpeg",
+    "IAD/Lect5/Materials/Lect5-1759400997998.jpeg",
+    "IAD/Lect5/Materials",
+    "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
+    "IAD/Lect5/Lect5.md",
+    "IAD/Lect5",
+    "tmp.md",
+    "Alg/Algorithms list.md",
+    "Pentest/Lect1/Lect1. Введение.md",
+    "Economics/Lect4/Lect4. Производство, издержки и прибыль.md",
     "Economics/Lect4/Materials",
     "Economics/Lect2/Lect2.md",
-    "Economics/Lect4/Lect4. Производство, издержки и прибыль.md",
     "Economics/Lect4",
-    "tmp.md",
     "Economics/Lect3/Lect3.md",
     "SHT/Sem4/Sem4.md",
     "Guide md.md",
-    "Alg/Algorithms list.md",
     "Alg/Algorithms on graphs/Algorithms on graphs.md",
     "Alg/DSU_DisjointSetUnion/DSU - Disjoint set union.md",
     "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
@@ -213,22 +217,17 @@
     "SHT",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
-    "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
-    "Pentest/Lect1/Lect1. Введение.md",
     "Pentest/Sem3",
     "Pentest/Sem1/Sem1.md",
     "Pentest/Hw1/Untitled.md",
     "Pentest/Hw1",
     "Alg/Algorithms on graphs/DFS/DFS.md",
     "Alg/Algorithms on graphs/BFS/BFS.md",
-    "Alg/Algorithms on graphs/ыы",
-    "Alg/Algorithms on graphs/DFS/Materials",
     "IAD/Sem3/Sem3.md",
     "Materials/DSU.md",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
     "Pentest/Sem2/Sem2.md",
-    "IAD/Sem2/Sem2.md",
     "Untitled.canvas"
   ]
 }
