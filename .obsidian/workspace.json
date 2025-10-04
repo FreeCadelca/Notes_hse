@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAD/Sem4/Sem4.md",
+                "file": "Pentest/Lect6/Lect6 - Серверные уязвимости часть 3. Access control....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem4"
+              "title": "Lect6 - Серверные уязвимости часть 3. Access control..."
             }
           }
         ]
@@ -182,12 +182,17 @@
   },
   "active": "856d447b86d1fc54",
   "lastOpenFiles": [
+    "Pentest/Sem4/Sem4.md",
+    "Pentest/Lect6/Lect6 - Серверные уязвимости часть 3. Access control....md",
+    "Pentest/Lect6",
+    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
+    "Pentest/Sem4",
+    "IAD/Lect5/Lect5.md",
+    "IAD/Sem4/Sem4.md",
     "IAD/Sem4/Materials/Sem4-1759412390718.jpeg",
     "IAD/Sem4/Materials",
     "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
-    "IAD/Sem4/Sem4.md",
     "IAD/Sem4",
-    "IAD/Lect5/Lect5.md",
     "IAD/Lect5/Materials/Lect5-1759403859222.jpeg",
     "IAD/Lect5/Materials/Lect5-1759403778302.jpeg",
     "IAD/Lect5/Materials/Lect5-1759403461354.jpeg",
@@ -197,7 +202,6 @@
     "IAD/Lect5/Materials/Lect5-1759402822026.jpeg",
     "IAD/Lect5/Materials/Lect5-1759402659952.jpeg",
     "IAD/Lect5/Materials/Lect5-1759402229280.jpeg",
-    "IAD/Lect5/Materials/Lect5-1759401888151.jpeg",
     "IAD/Lect5/Materials",
     "IAD/Lect5",
     "tmp.md",
@@ -212,12 +216,9 @@
     "Guide md.md",
     "Alg/Algorithms on graphs/Algorithms on graphs.md",
     "Alg/DSU_DisjointSetUnion/DSU - Disjoint set union.md",
-    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
     "Pentest/Sem3/Sem3.md",
     "Pentest/Lect5/Materials",
     "Pentest/Lect5",
-    "SHT/Sem4",
-    "SHT",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
     "Pentest/Sem1/Sem1.md",
@@ -227,7 +228,6 @@
     "IAD/Sem3/Sem3.md",
     "Materials/DSU.md",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
-    "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
     "Untitled.canvas"
   ]
 }
