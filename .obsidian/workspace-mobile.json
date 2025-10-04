@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
+                "file": "tmp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect4. SQLi. Часть 1"
+              "title": "tmp"
             }
           }
         ]
@@ -157,8 +157,8 @@
   },
   "active": "6740220f829ac404",
   "lastOpenFiles": [
-    "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
+    "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
     "Pentest/Lect4/Materials/Pasted image 20250920184935.jpg",
     "Pentest/Lect4/Materials",
     "![[.md",
