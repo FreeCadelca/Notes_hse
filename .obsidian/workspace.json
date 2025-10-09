@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Lect6/Lect6 - Серверные уязвимости часть 3. Access control....md",
+                "file": "IAD/Lect6/Lect6 - Детекция.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect6 - Серверные уязвимости часть 3. Access control..."
+              "title": "Lect6 - Детекция"
             }
           }
         ]
@@ -182,20 +182,26 @@
   },
   "active": "856d447b86d1fc54",
   "lastOpenFiles": [
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759693195417.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759693165199.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759693162897.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759692974027.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759692958893.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759692881855.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759692816172.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759692640888.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759692613471.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759692364224.jpeg",
-    "Pentest/Lect6/Materials/Lect6 - Серверные уязвимости часть 3. Access control.-1759691970606.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760008931571.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760008723524.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760008456976.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760008347788.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760008015647.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760007824873.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760007789218.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760007640626.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760007563667.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760007493733.jpeg",
+    "IAD/Lect6/Materials/Lect6 - Детекция-1760007464232.jpeg",
+    "IAD/Lect6/Materials",
+    "Pentest/Sem3/Sem3.md",
+    "IAD/Lect6/Lect6 - Детекция.md",
+    "IAD/Lect6",
+    "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
+    "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
+    "Pentest/Lect6/Lect6 - Серверные уязвимости часть 3. Access control....md",
     "Pentest/Lect6/Materials",
     "tmp.md",
-    "Pentest/Lect6/Lect6 - Серверные уязвимости часть 3. Access control....md",
     "Pentest/Sem4/Sem4.md",
     "Pentest/Lect6",
     "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
@@ -212,22 +218,16 @@
     "Economics/Lect4/Lect4. Производство, издержки и прибыль.md",
     "Economics/Lect4/Materials",
     "Economics/Lect2/Lect2.md",
-    "Economics/Lect4",
     "Economics/Lect3/Lect3.md",
     "SHT/Sem4/Sem4.md",
     "Guide md.md",
     "Alg/Algorithms on graphs/Algorithms on graphs.md",
     "Alg/DSU_DisjointSetUnion/DSU - Disjoint set union.md",
-    "Pentest/Sem3/Sem3.md",
-    "Pentest/Lect5/Materials",
-    "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
-    "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
     "Pentest/Sem1/Sem1.md",
     "Pentest/Hw1/Untitled.md",
     "Alg/Algorithms on graphs/DFS/DFS.md",
     "Alg/Algorithms on graphs/BFS/BFS.md",
     "IAD/Sem3/Sem3.md",
-    "Materials/DSU.md",
     "Untitled.canvas"
   ]
 }
