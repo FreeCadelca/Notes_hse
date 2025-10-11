@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAD/Lect6/Lect6 - Детекция.md",
+                "file": "Pentest/Lect7/Server .....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect6 - Детекция"
+              "title": "Server ...."
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "856d447b86d1fc54",
   "lastOpenFiles": [
+    "IAD/Lect6/Lect6 - Детекция.md",
+    "Pentest/Lect7/Server .....md",
+    "Pentest/Lect7",
     "IAD/Lect6/Materials/Lect6 - Детекция-1760008931571.jpeg",
     "IAD/Lect6/Materials/Lect6 - Детекция-1760008723524.jpeg",
     "IAD/Lect6/Materials/Lect6 - Детекция-1760008456976.jpeg",
@@ -192,10 +195,8 @@
     "IAD/Lect6/Materials/Lect6 - Детекция-1760007640626.jpeg",
     "IAD/Lect6/Materials/Lect6 - Детекция-1760007563667.jpeg",
     "IAD/Lect6/Materials/Lect6 - Детекция-1760007493733.jpeg",
-    "IAD/Lect6/Materials/Lect6 - Детекция-1760007464232.jpeg",
     "IAD/Lect6/Materials",
     "Pentest/Sem3/Sem3.md",
-    "IAD/Lect6/Lect6 - Детекция.md",
     "IAD/Lect6",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
@@ -216,7 +217,6 @@
     "Alg/Algorithms list.md",
     "Pentest/Lect1/Lect1. Введение.md",
     "Economics/Lect4/Lect4. Производство, издержки и прибыль.md",
-    "Economics/Lect4/Materials",
     "Economics/Lect2/Lect2.md",
     "Economics/Lect3/Lect3.md",
     "SHT/Sem4/Sem4.md",
