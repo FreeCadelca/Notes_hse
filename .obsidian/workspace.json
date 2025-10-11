@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Lect7/Server .....md",
+                "file": "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Server ...."
+              "title": "Lect4. SQLi. Часть 1"
             }
           }
         ]
@@ -182,8 +182,15 @@
   },
   "active": "856d447b86d1fc54",
   "lastOpenFiles": [
-    "IAD/Lect6/Lect6 - Детекция.md",
+    "IAD/Sem1/Sem1.md",
+    "IAD/Sem4/Sem4.md",
+    "IAD/Sem3/Sem3.md",
+    "IAD/Sem2/Sem2.md",
+    "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
+    "IAD/Lect5/Lect5.md",
+    "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
     "Pentest/Lect7/Server .....md",
+    "IAD/Lect6/Lect6 - Детекция.md",
     "Pentest/Lect7",
     "IAD/Lect6/Materials/Lect6 - Детекция-1760008931571.jpeg",
     "IAD/Lect6/Materials/Lect6 - Детекция-1760008723524.jpeg",
@@ -207,8 +214,6 @@
     "Pentest/Lect6",
     "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
     "Pentest/Sem4",
-    "IAD/Lect5/Lect5.md",
-    "IAD/Sem4/Sem4.md",
     "IAD/Sem4/Materials",
     "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
     "IAD/Sem4",
@@ -223,11 +228,6 @@
     "Guide md.md",
     "Alg/Algorithms on graphs/Algorithms on graphs.md",
     "Alg/DSU_DisjointSetUnion/DSU - Disjoint set union.md",
-    "Pentest/Sem1/Sem1.md",
-    "Pentest/Hw1/Untitled.md",
-    "Alg/Algorithms on graphs/DFS/DFS.md",
-    "Alg/Algorithms on graphs/BFS/BFS.md",
-    "IAD/Sem3/Sem3.md",
     "Untitled.canvas"
   ]
 }
