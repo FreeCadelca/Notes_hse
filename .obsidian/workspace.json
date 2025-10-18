@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAD/Lect7/Lect7.md",
+                "file": "Pentest/Lect7/Server .....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect7"
+              "title": "Server ...."
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -167,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +182,16 @@
   },
   "active": "856d447b86d1fc54",
   "lastOpenFiles": [
+    "Pentest/Lect6/Lect6 - Серверные уязвимости часть 3. Access control....md",
+    "Pentest/Sem3/Sem3.md",
+    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
+    "Pentest/Lect8/Lect8.md",
+    "Pentest/Lect7/Server .....md",
+    "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
+    "Pentest/Lect8",
+    "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
+    "Pentest/Sem2/Sem2.md",
+    "IAD/Lect7/Lect7.md",
     "IAD/Lect7/Materials/Lect7-1760613304391.jpeg",
     "IAD/Lect7/Materials/Lect7-1760613265804.jpeg",
     "IAD/Lect7/Materials/Lect7-1760613185131.jpeg",
@@ -194,10 +202,8 @@
     "IAD/Lect7/Materials/Lect7-1760612882446.jpeg",
     "IAD/Lect7/Materials/Lect7-1760612337421.jpeg",
     "IAD/Lect7/Materials/Lect7-1760611992192.jpeg",
-    "IAD/Lect7/Materials/Lect7-1760611931115.jpeg",
     "IAD/Lect7/Materials",
     "tmp.md",
-    "IAD/Lect7/Lect7.md",
     "IAD/Lect7",
     "Materials",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
@@ -205,31 +211,23 @@
     "IAD/Lect2/Lect2 - CN.md",
     "Alg/Algorithms list.md",
     "Alg/DSU_DisjointSetUnion/DSU - Disjoint set union.md",
-    "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "IAD/Sem1/Sem1.md",
     "IAD/Sem4/Sem4.md",
     "IAD/Sem3/Sem3.md",
     "IAD/Sem2/Sem2.md",
     "IAD/Lect5/Lect5.md",
-    "Pentest/Lect7/Server .....md",
     "IAD/Lect6/Lect6 - Детекция.md",
     "Pentest/Lect7",
     "IAD/Lect6/Materials",
-    "Pentest/Sem3/Sem3.md",
     "IAD/Lect6",
-    "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
-    "Pentest/Lect6/Lect6 - Серверные уязвимости часть 3. Access control....md",
     "Pentest/Lect6/Materials",
     "Pentest/Sem4/Sem4.md",
     "Pentest/Lect6",
-    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
     "Pentest/Sem4",
-    "IAD/Sem4/Materials",
     "Pentest/Lect2/Lect2. Разведка и сбор информации о цели.md",
     "Pentest/Lect1/Lect1. Введение.md",
     "Economics/Lect4/Lect4. Производство, издержки и прибыль.md",
     "Economics/Lect2/Lect2.md",
-    "Economics/Lect3/Lect3.md",
     "Untitled.canvas"
   ]
 }
