@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:Tech ",
+      "color": {
+        "a": 1,
+        "rgb": 5397472
+      }
     }
   ],
   "collapse-display": false,
