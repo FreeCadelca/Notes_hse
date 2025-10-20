@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Multithreading and parallelism/Mulrithreading and parallelelism.md",
+                "file": "Tech/tech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mulrithreading and parallelelism"
+              "title": "tech"
             }
           }
         ]
@@ -182,19 +182,21 @@
   },
   "active": "95cd5c7a61e04684",
   "lastOpenFiles": [
+    "Tech/OOP/OOP.md",
     "Tech/tech.md",
+    "Tech/Effective work with lang/Effective work with lang.md",
     "Tech/Multithreading and parallelism/Mulrithreading and parallelelism.md",
+    "Tech/Multithreading and parallelism/Materials/Mulrithreading and parallelelism-1760951017889.jpeg",
+    "Tech/Multithreading and parallelism/Materials",
     "Tech/Memory/Memory.md",
     "Tech/Basics/Basics.md",
     "Tech/Basics/Materials/Basics-1760898850281.jpeg",
     "Tech/Basics/Materials",
-    "Tech/Effective work with lang/Effective work with lang.md",
     "Guide md.md",
     "Alg/Algorithms list.md",
     "Multithreading.md",
     "Tech/Effective.md",
     "Tech/Multithreading.md",
-    "Tech/OOP/OOP.md",
     "Pentest/Lect8/Lect8.md",
     "Tech/Effective work with lang",
     "Tech/Multithreading and parallelism",
@@ -219,10 +221,8 @@
     "IAD/Lect7/Materials/Lect7-1760612897402.jpeg",
     "IAD/Lect7/Materials/Lect7-1760612892853.jpeg",
     "IAD/Lect7/Materials/Lect7-1760612882446.jpeg",
-    "IAD/Lect7/Materials/Lect7-1760612337421.jpeg",
     "IAD/Lect7/Materials",
     "tmp.md",
-    "IAD/Lect7",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
     "IAD/Lect2/Lect2 - CN.md",
