@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ae44183884614b37",
+        "id": "6e02d785c17e3543",
         "type": "tabs",
         "children": [
           {
-            "id": "95cd5c7a61e04684",
+            "id": "f573dd3d8145301f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/tech.md",
+                "file": "IAD/Lect8/Lect8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tech"
+              "title": "Lect8"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -180,17 +181,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95cd5c7a61e04684",
+  "active": "f573dd3d8145301f",
   "lastOpenFiles": [
-    "Tech/OOP/OOP.md",
+    "IAD/Lect8/Materials/Lect8-1761218086508.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761217776110.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761217322650.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761217089279.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761216906028.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761216850961.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761216751289.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761216501939.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761215844113.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761215737261.jpeg",
+    "IAD/Lect8/Materials/Lect8-1761215706091.jpeg",
+    "IAD/Lect8/Materials",
+    "IAD/Lect7/Lect7.md",
+    "IAD/Lect8/Lect8.md",
     "Tech/tech.md",
-    "Tech/Effective work with lang/Effective work with lang.md",
+    "IAD/Lect8",
     "Tech/Multithreading and parallelism/Mulrithreading and parallelelism.md",
-    "Tech/Multithreading and parallelism/Materials/Mulrithreading and parallelelism-1760951017889.jpeg",
-    "Tech/Multithreading and parallelism/Materials",
     "Tech/Memory/Memory.md",
+    "Tech/OOP/OOP.md",
+    "Tech/Effective work with lang/Effective work with lang.md",
+    "Tech/Multithreading and parallelism/Materials",
     "Tech/Basics/Basics.md",
-    "Tech/Basics/Materials/Basics-1760898850281.jpeg",
     "Tech/Basics/Materials",
     "Guide md.md",
     "Alg/Algorithms list.md",
@@ -209,24 +223,12 @@
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "Pentest/Lect6/Lect6 - Серверные уязвимости часть 3. Access control....md",
     "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
-    "Pentest/Lect8",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
     "Pentest/Sem2/Sem2.md",
-    "IAD/Lect7/Lect7.md",
-    "IAD/Lect7/Materials/Lect7-1760613304391.jpeg",
-    "IAD/Lect7/Materials/Lect7-1760613265804.jpeg",
-    "IAD/Lect7/Materials/Lect7-1760613185131.jpeg",
-    "IAD/Lect7/Materials/Lect7-1760613102032.jpeg",
-    "IAD/Lect7/Materials/Lect7-1760612941208.jpeg",
-    "IAD/Lect7/Materials/Lect7-1760612897402.jpeg",
-    "IAD/Lect7/Materials/Lect7-1760612892853.jpeg",
-    "IAD/Lect7/Materials/Lect7-1760612882446.jpeg",
-    "IAD/Lect7/Materials",
     "tmp.md",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
     "IAD/Lect2/Lect2 - CN.md",
-    "Alg/DSU_DisjointSetUnion/DSU - Disjoint set union.md",
     "Untitled.canvas"
   ]
 }
