@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAD/Lect8/Lect8.md",
+                "file": "IAD/Sem5/Sem5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect8"
+              "title": "Sem5"
             }
           }
         ]
@@ -181,8 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f573dd3d8145301f",
+  "active": "f87b8a69eb53cb58",
   "lastOpenFiles": [
+    "IAD/Sem5/Materials/Sem5-1761226406619.jpeg",
+    "IAD/Sem5/Materials/Sem5-1761226307229.jpeg",
+    "IAD/Sem5/Materials",
+    "IAD/Lect8/Lect8.md",
+    "IAD/Sem5/Sem5.md",
+    "IAD/Sem5",
     "IAD/Lect8/Materials/Lect8-1761218086508.jpeg",
     "IAD/Lect8/Materials/Lect8-1761217776110.jpeg",
     "IAD/Lect8/Materials/Lect8-1761217322650.jpeg",
@@ -192,11 +198,8 @@
     "IAD/Lect8/Materials/Lect8-1761216751289.jpeg",
     "IAD/Lect8/Materials/Lect8-1761216501939.jpeg",
     "IAD/Lect8/Materials/Lect8-1761215844113.jpeg",
-    "IAD/Lect8/Materials/Lect8-1761215737261.jpeg",
-    "IAD/Lect8/Materials/Lect8-1761215706091.jpeg",
     "IAD/Lect8/Materials",
     "IAD/Lect7/Lect7.md",
-    "IAD/Lect8/Lect8.md",
     "Tech/tech.md",
     "IAD/Lect8",
     "Tech/Multithreading and parallelism/Mulrithreading and parallelelism.md",
@@ -216,8 +219,6 @@
     "Tech/Multithreading and parallelism",
     "Tech/OOP",
     "Tech/Memory",
-    "Tech/Basics",
-    "Tech",
     "Pentest/Lect7/Server .....md",
     "Pentest/Sem3/Sem3.md",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
@@ -228,7 +229,6 @@
     "tmp.md",
     "IAD/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lect3/Lect3 - CN2 - Свёрточные сети.md",
-    "IAD/Lect2/Lect2 - CN.md",
     "Untitled.canvas"
   ]
 }
