@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAD/Sem5/Sem5.md",
+                "file": "Pentest/Lect7/Lect7 - Серверные уязвимости веб-приложений. Часть 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem5"
+              "title": "Lect7 - Серверные уязвимости веб-приложений. Часть 4"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -181,23 +180,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f87b8a69eb53cb58",
+  "active": "f573dd3d8145301f",
   "lastOpenFiles": [
+    "Pentest/Lect7/Materials/Lect7 - Серверные уязвимости веб-приложений. Часть 4-1762122619969.jpeg",
+    "Pentest/Lect7/Materials/Lect7 - Серверные уязвимости веб-приложений. Часть 4-1762121956833.jpeg",
+    "Pentest/Lect7/Materials/Lect7 - Серверные уязвимости веб-приложений. Часть 4-1762121930327.jpeg",
+    "Pentest/Lect7/Materials/Lect7 - Серверные уязвимости веб-приложений. Часть 4-1762121318378.jpeg",
+    "Pentest/Lect7/Materials/Lect7 - Серверные уязвимости веб-приложений. Часть 4-1762103575618.jpeg",
+    "Pentest/Lect7/Materials",
+    "Pentest/Lect6/Lect6 - Серверные уязвимости. Часть 3.md",
+    "Pentest/Lect7/Lect7 - Серверные уязвимости веб-приложений. Часть 4.md",
+    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
+    "IAD/Sem5/Sem5.md",
     "IAD/Sem5/Materials/Sem5-1761226406619.jpeg",
     "IAD/Sem5/Materials/Sem5-1761226307229.jpeg",
     "IAD/Sem5/Materials",
     "IAD/Lect8/Lect8.md",
-    "IAD/Sem5/Sem5.md",
     "IAD/Sem5",
     "IAD/Lect8/Materials/Lect8-1761218086508.jpeg",
     "IAD/Lect8/Materials/Lect8-1761217776110.jpeg",
     "IAD/Lect8/Materials/Lect8-1761217322650.jpeg",
     "IAD/Lect8/Materials/Lect8-1761217089279.jpeg",
-    "IAD/Lect8/Materials/Lect8-1761216906028.jpeg",
-    "IAD/Lect8/Materials/Lect8-1761216850961.jpeg",
-    "IAD/Lect8/Materials/Lect8-1761216751289.jpeg",
-    "IAD/Lect8/Materials/Lect8-1761216501939.jpeg",
-    "IAD/Lect8/Materials/Lect8-1761215844113.jpeg",
     "IAD/Lect8/Materials",
     "IAD/Lect7/Lect7.md",
     "Tech/tech.md",
@@ -218,12 +221,8 @@
     "Tech/Effective work with lang",
     "Tech/Multithreading and parallelism",
     "Tech/OOP",
-    "Tech/Memory",
-    "Pentest/Lect7/Server .....md",
     "Pentest/Sem3/Sem3.md",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
-    "Pentest/Lect6/Lect6 - Серверные уязвимости часть 3. Access control....md",
-    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
     "Pentest/Sem2/Sem2.md",
     "tmp.md",
