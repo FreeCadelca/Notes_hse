@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pentest/Lect8/Lect8 - Серверные уязвимости веб-приложений. Часть 5.md",
+                "file": "soc/Lect1/Lect1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lect8 - Серверные уязвимости веб-приложений. Часть 5"
+              "title": "Lect1"
             }
           }
         ]
@@ -182,6 +182,10 @@
   },
   "active": "f573dd3d8145301f",
   "lastOpenFiles": [
+    "Pentest/Lect8/Lect8 - Серверные уязвимости веб-приложений. Часть 5.md",
+    "soc/Lect1/Lect1.md",
+    "soc/Lect1",
+    "soc",
     "Pentest/Lect8/Materials/Lect8 - Серверные уязвимости веб-приложений. Часть 5-1762286948784.jpeg",
     "Pentest/Lect8/Materials/Lect8 - Серверные уязвимости веб-приложений. Часть 5-1762286229934.jpeg",
     "Pentest/Lect8/Materials/Lect8 - Серверные уязвимости веб-приложений. Часть 5-1762269907184.jpeg",
@@ -192,10 +196,8 @@
     "Pentest/Lect8/Materials/Lect8 - Серверные уязвимости веб-приложений. Часть 5-1762269661220.jpeg",
     "Pentest/Lect8/Materials/Lect8 - Серверные уязвимости веб-приложений. Часть 5-1762269447150.jpeg",
     "Pentest/Lect8/Materials/Lect8 - Серверные уязвимости веб-приложений. Часть 5-1762269408781.jpeg",
-    "Pentest/Lect8/Materials/Lect8 - Серверные уязвимости веб-приложений. Часть 5-1762269222684.jpeg",
     "Pentest/Lect8/Materials",
     "Pentest/Lect7/Lect7 - Серверные уязвимости веб-приложений. Часть 4.md",
-    "Pentest/Lect8/Lect8 - Серверные уязвимости веб-приложений. Часть 5.md",
     "Pentest/Lect7/Materials",
     "Pentest/Lect6/Lect6 - Серверные уязвимости. Часть 3.md",
     "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
@@ -219,8 +221,6 @@
     "Multithreading.md",
     "Tech/Effective.md",
     "Tech/Multithreading.md",
-    "Tech/Effective work with lang",
-    "Tech/Multithreading and parallelism",
     "Pentest/Sem3/Sem3.md",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "Pentest/Lect3/Lect3. Основы работы веб-приложений.md",
