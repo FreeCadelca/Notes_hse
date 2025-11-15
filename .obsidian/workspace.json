@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp.md",
-                "mode": "preview",
+                "file": "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmp"
+              "title": "Lect4. SQLi. Часть 1"
+            }
+          },
+          {
+            "id": "97cbbf291e44c07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SHT/Sem2.1/Sem2.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem2.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f87b8a69eb53cb58",
+  "active": "97cbbf291e44c07e",
   "lastOpenFiles": [
-    "IAD/Seminars/Sem9/Sem 9.md",
+    "SHT/Sem2.1/Materials/Sem2.1-1763190753646.jpeg",
+    "SHT/Sem2.1/Materials",
     "tmp.md",
+    "SHT/Sem2.1/Sem2.1.md",
+    "SHT/Sem2.1",
+    "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
+    "IAD/Seminars/Sem9/Sem 9.md",
     "IAD/Seminars/Sem9/Materials/Sem 9-1763041325192.jpeg",
     "IAD/Seminars/Sem9/Materials/Sem 9-1763040977681.jpeg",
     "IAD/Seminars/Sem9/Materials/Sem 9-1763040817877.jpeg",
@@ -207,15 +227,12 @@
     "IAD/Lections/Lect3/Lect3 - CN2 - Свёрточные сети.md",
     "IAD/Lections/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lections/Lect5/Lect5.md",
-    "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "Pentest/Lect9/Lect9 - SSRF часть 6.md",
     "Pentest/Lect8/Lect8 - Серверные уязвимости веб-приложений. Часть 5.md",
     "Pentest/Lect7/Lect7 - Серверные уязвимости веб-приложений. Часть 4.md",
     "soc/Lect1/Lect1.md",
     "Pentest/Lect9",
     "soc/Lect1",
-    "soc",
-    "Pentest/Lect8/Materials",
     "IAD/Seminars/Sem5/Sem5.md",
     "IAD/Lections/Lect7/Lect7.md",
     "Tech/tech.md",
@@ -226,7 +243,6 @@
     "Tech/Basics/Basics.md",
     "Guide md.md",
     "Alg/Algorithms list.md",
-    "Multithreading.md",
     "Untitled.canvas"
   ]
 }
