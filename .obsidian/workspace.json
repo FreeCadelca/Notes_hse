@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp.md",
+                "file": "IAD/Lections/Lect10/Lect10 - RAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmp"
+              "title": "Lect10 - RAG"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "9fb8133ec118a423",
@@ -195,54 +196,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97cbbf291e44c07e",
+  "active": "f87b8a69eb53cb58",
   "lastOpenFiles": [
-    "SHT/Sem2.1/Sem2.1.md",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763647793759.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763647781219.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763647568058.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763647533799.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763647512729.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763647465800.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763647342349.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763647169736.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763646865655.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763646765042.jpeg",
+    "IAD/Lections/Lect10/Materials/Lect10 - RAG-1763646673481.jpeg",
+    "IAD/Lections/Lect10/Materials",
+    "Pentest/Lect7/Lect7 - Серверные уязвимости веб-приложений. Часть 4.md",
+    "IAD/Lections/Lect10/Lect10 - RAG.md",
+    "IAD/Lections/Lect10",
+    "Pentest/Lect8/Lect8 - Серверные уязвимости веб-приложений. Часть 5.md",
+    "Pentest/Lect9/Lect9 - SSRF часть 6.md",
+    "Pentest/Lect6/Lect6 - Серверные уязвимости. Часть 3.md",
+    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
+    "Pentest/Lect10/Lect10.md",
     "tmp.md",
+    "Pentest/Lect10",
+    "SHT/Sem2.1/Sem2.1.md",
     "conflict-files-obsidian-git.md",
     "GuideProxy.md",
-    "SHT/Sem2.1/Materials/Sem2.1-1763190753646.jpeg",
     "SHT/Sem2.1/Materials",
     "SHT/Sem2.1",
     "Pentest/Lect4/Lect4. SQLi. Часть 1.md",
     "IAD/Seminars/Sem9/Sem 9.md",
-    "IAD/Seminars/Sem9/Materials/Sem 9-1763041325192.jpeg",
-    "IAD/Seminars/Sem9/Materials/Sem 9-1763040977681.jpeg",
-    "IAD/Seminars/Sem9/Materials/Sem 9-1763040817877.jpeg",
-    "IAD/Seminars/Sem9/Materials/Sem 9-1763040432332.jpeg",
     "IAD/Seminars/Sem9/Materials",
     "IAD/Seminars/Sem9",
     "IAD/Lections/Lect9/Lect9.md",
-    "IAD/Lections/Lect9/Materials/Lect9-1763033723610.jpeg",
-    "IAD/Lections/Lect9/Materials/Lect9-1763033468154.jpeg",
-    "IAD/Lections/Lect9/Materials/Lect9-1763033348482.jpeg",
-    "IAD/Lections/Lect9/Materials/Lect9-1763033343005.jpeg",
-    "IAD/Lections/Lect9/Materials/Lect9-1763033160656.jpeg",
     "IAD/Lections/Lect9/Materials",
     "IAD/Lections/Lect8/Lect8.md",
     "IAD/Seminars",
     "IAD/Lections",
-    "IAD/Lections/Lect9",
-    "Pentest/Lect5/Lect5 - Серверные уязвимости.md",
-    "Pentest/Lect6/Lect6 - Серверные уязвимости. Часть 3.md",
     "IAD/Lections/Lect3/Lect3 - CN2 - Свёрточные сети.md",
     "IAD/Lections/Lect4/Lect4 - Оптимизация в глубинном обучении. Свёрточные архитектуры.md",
     "IAD/Lections/Lect5/Lect5.md",
-    "Pentest/Lect9/Lect9 - SSRF часть 6.md",
-    "Pentest/Lect8/Lect8 - Серверные уязвимости веб-приложений. Часть 5.md",
-    "Pentest/Lect7/Lect7 - Серверные уязвимости веб-приложений. Часть 4.md",
     "soc/Lect1/Lect1.md",
-    "Pentest/Lect9",
-    "soc/Lect1",
     "IAD/Seminars/Sem5/Sem5.md",
     "IAD/Lections/Lect7/Lect7.md",
     "Tech/tech.md",
     "Tech/Multithreading and parallelism/Mulrithreading and parallelelism.md",
     "Tech/Memory/Memory.md",
     "Tech/OOP/OOP.md",
-    "Tech/Effective work with lang/Effective work with lang.md",
-    "Tech/Basics/Basics.md",
-    "Guide md.md",
     "Untitled.canvas"
   ]
 }
