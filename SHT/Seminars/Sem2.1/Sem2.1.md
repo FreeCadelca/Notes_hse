@@ -1,4 +1,4 @@
-![](./Materials/Sem2.1-1763190753646.jpeg)
+![](Materials/Sem2.1-1763190753646.jpeg)
 
 типы данных в ASM
 
