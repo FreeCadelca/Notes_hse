@@ -115,7 +115,7 @@ extern int calculate_ans(uint32_t *arr, uint32_t n, uint32_t m);
 void print_arr(uint32_t *arr, uint32_t n, uint32_t m) {
     for (uint32_t i = 0; i < n; i++) {
         for (uint32_t j = 0; j < m; j++) {
-            printf("%d\t", arr[i * n + j]);
+            printf("%d\t", arr[i * m + j]);
         }
         printf("\n");
     }
@@ -177,7 +177,7 @@ for_j:
     jge for_j_end
 
     mov r11d, ecx ; r11d = i
-    imul r11d, edx ; r11d = i * m
+    imul r11d, r9d ; r11d = i * m
     add r11d, r10d ; r11d = i * m + j
 
     mov eax, [rdi + r11 * 4] ; eax = arr[i * n + j]
@@ -214,60 +214,250 @@ gdb ./program
 
 До цикла с заполнением рандомными числами:
 
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764343341614.jpeg)
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764399285113.jpeg)
 
 В середине первого цикла
 
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764343821700.jpeg)
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764399388485.jpeg)
 
 В конце цикла:
 
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764344004970.jpeg)
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764399473202.jpeg)
 
-после функции с выводом:
+Вывод массива и переход а asm:
 
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764344906897.jpeg)
-
-вот так переходим в asm:
-
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764345178543.jpeg)
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764399578606.jpeg)
 
 Перед циклом регистры вот такие:
 
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764345516712.jpeg)
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764399939471.jpeg)
 
 Назначения регистров в моей программе:
 
-| ecx  | i                                                            |
-| ---- | ------------------------------------------------------------ |
-| esi  | n (параметр)                                                 |
-| r10d | j                                                            |
-| edx  | m (в качестве параметра функции), далее - остаток от деления |
-| r9d  | сохраненный m                                                |
-| r11d | для индексации по двумерному массиву                         |
-| r8d  | результат                                                    |
-| rdi  | адрес начала массива (параметр)                              |
+| rcx | i                                                                    |
+| --- | -------------------------------------------------------------------- |
+| rsi | n (параметр)                                                         |
+| r10 | j                                                                    |
+| rdx | m (сначала в качестве параметра функции), далее - остаток от деления |
+| r9  | сохраненный m                                                        |
+| r11 | для индексации по двумерному массиву (r11 = i\*n+m)                  |
+| r8  | результат                                                            |
+| rdi | адрес начала массива (параметр)                                      |
 
-После первых двух итераций:
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764347388036.jpeg)
+После первых двух итераций (попал в  i=1, j=2):
 
-на i=3,j=1:
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764400150999.jpeg)
 
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764348126469.jpeg)
+r8 такой маленький, потому что он не успел увеличиться, первая строка вообще не дает прибавки к ответу, вторая - может дать +1 в 50% случаев
+
+на i=3,j=8:
+
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764400328275.jpeg)
 
 Как мы видим, r8 потихоньку увеличивается и будет увеличиваться дальше ещё быстрее, т.к. i станет больше и остатки тоже
 
 В конце работы asm модуля:
 
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764348686221.jpeg)
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764400605012.jpeg)
 
-ответ в r8 - 91
+ответ в r8 - 149
 
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764348896969.jpeg)
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764400658584.jpeg)
 
 # Дополнительное задание
 
 ## Задание 1
 
+```asm
+global _start
+global buffer
 
-![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764355941904.jpeg)
+section .data
+buffer db 12 dup(0) ; статичный указатель на начало буфера (char[])
+
+section .text
+
+_start:
+    push ebp
+    mov  ebp, esp
+    sub  esp, 40      ; выделяем 40 байт для локальных переменных (массив на 10 dword по 4 байта), i будем хранить в регистрах-счетчиках
+
+    mov ecx, 0x0  ; обнуляем счётчик
+    jmp .first_while_head ; Идём в условие первого вайла
+
+
+; первый цикл while (i < 10) {body1}
+.first_while_head:
+    cmp ecx, 0xa
+    jl .first_while_body ; Если сравнение выдало less (<), то продолжаем цикл и прыгаем в тело цикла
+    ; Если оказались здесь => не перепрыгнули в тело цикла => он закончился. Обнуляем счетчик для следующего цикла и переходим в его голову
+
+    mov ecx, 0x0
+    jmp .second_while_head
+
+.first_while_body:
+    mov dword [esp+ecx*4], 0x0
+    add ecx, 0x1
+    ; Отправляемся в проверку условия выхода - в голову цикла
+    jmp .first_while_head
+
+; второй цикл while (i < 10) {body2}
+.second_while_head:
+    cmp ecx, 0xa
+    jl .second_while_body ; Если сравнение выдало less (<), то продолжаем цикл и прыгаем в тело цикла
+    ; Если оказались здесь => не перепрыгнули в тело цикла => он закончился. Обнуляем регистры и выходим из программы
+
+    mov eax, 0
+    mov ecx, 0
+    jmp .print_loop
+
+.second_while_body:
+    mov eax, ecx
+    imul eax, eax
+
+    mov dword [esp+ecx*4], eax
+    add ecx, 1
+    ; Отправляемся в проверку условия выхода - в голову цикла
+    jmp .second_while_head
+
+
+.print_loop:
+    cmp ecx, 10
+    jge .end_program
+
+    mov eax, dword [esp + ecx*4]
+
+    ; конвертация числа в строку
+    mov edi, buffer
+
+    push ecx
+    call int_to_str ; функция int_to_str берёт число из eax и переводит его в строчный вид, помещая в edi
+    pop ecx
+
+    ; вывести buffer через write(stdout=1, buffer, eax)
+    push ecx
+    mov ebx, 1 ; stdout
+    mov ecx, buffer ; указатель на буфер
+    mov edx, eax ; длина вывода
+    mov eax, 4 ; syscall write
+    int 0x80
+    pop ecx
+
+    inc ecx
+    jmp .print_loop
+
+.end_program:
+    mov eax, 1 ; sys_exit
+    mov ecx, 0
+    mov ebx, 0 ; return code = 0
+    int 0x80 ; kernel call
+    ret
+
+
+; в eax - число
+; в edi - адрес буфера
+int_to_str:
+    ; оч важный момент, нам уже не хватает регистров,
+    ; а мы на 32, да и в целом будет классно,
+    ; если в каждой функции мы будем сохранять старые значения регистров,
+    ; чтобы за собой возвращать на место
+    push ebx
+    push esi
+    ; ecx будем использовать как индекс для записи цифр (в обратном порядке)
+    mov ecx, 0
+
+.convert:
+    mov edx, 0
+    mov ebx, 10 ; делитель
+    div ebx ; частное пойдёт обратно в eax, остаток - в edx, он же dl
+    add dl, '0' ; узнаем номер символа искомой цифры
+    mov byte [edi + ecx], dl ; в С было бы: char *edi = buffer; buffer[ecx] = dl;
+    inc ecx
+    test eax, eax ; то же самое, что-> cmp eax, 0
+    jnz .convert ;                     jne .convert, но быстрее
+
+    ; reverse, т.к. у нас сча обратный порядок символов числа из-за специфики алгоритма (1337 -> '7','3','3','1')
+    mov esi, 0 ; будет вторым индексом, который будет идти на встречу ebx
+    mov ebx, ecx
+    ; развернём строку: i = 0; j = ecx-1; while i < j swap
+    dec ebx
+.rev:
+    cmp esi, ebx
+    jge .after_rev ; если они пересеклись - то пора остановиться
+
+    mov al, byte [edi + esi] ; в al записываем символ из переднего индекса
+    mov ah, byte [edi + ebx] ; в ah записываем символ из заднего индекса (симметричного относительно середины)
+
+    xchg al, ah ; свапаем извлечённые символы строки
+
+    mov byte [edi + esi], al ; возвращаем символ переднего индекса на место
+    mov byte [edi + ebx], ah ; возвращаем символ заднего индекса на место
+
+    inc esi
+    dec ebx
+    jmp .rev
+.after_rev:
+
+    mov byte [edi + ecx], 10 ; '\n'
+
+    ; возвращаем длину для WriteConsole: ecx + 1 (digits + newline)
+    mov eax, ecx
+    inc eax
+
+    pop esi
+    pop ebx
+
+    ret
+```
+
+Как видим, вывод в консоль работает
+
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764400756071.jpeg)
+
+## Задание 2
+
+```asm
+.globl _main
+
+.section .text
+
+_main:
+    pushl %ebp
+    movl %esp, %ebp
+    subl $40, %esp
+
+    movl $0, %ecx 
+    jmp first_while_head
+
+first_while_head:
+    cmpl $10, %ecx
+    jl first_while_body
+
+    movl $0, %ecx
+    jmp second_while_head
+
+
+first_while_body:
+    movl $0, (%esp,%ecx,4)
+    incl %ecx
+    jmp first_while_head
+
+second_while_head:
+    cmpl $10, %ecx
+    jl second_while_body
+
+    movl $0, %eax
+    movl $0, %ecx
+    leave
+    ret
+
+second_while_body:
+    movl %ecx, %eax
+    imull %eax, %eax
+
+    movl %eax, (%esp,%ecx,4)
+    incl %ecx
+    jmp second_while_head
+```
+
+![](./Materials/LR%202.1%20by%20Kuleshov%20Dmitrity-1764401051224.jpeg)

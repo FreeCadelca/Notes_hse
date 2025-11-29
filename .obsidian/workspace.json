@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHT/Labs/LR 2.1 by Kuleshov Dmitrity.md",
+                "file": "SHT/Labs/LR 2.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LR 2.1 by Kuleshov Dmitrity"
+              "title": "LR 2.1"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHT/Labs/LR 2.1.md",
+                "file": "SHT/Labs/LR 2.1 by Kuleshov Dmitrity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LR 2.1"
+              "title": "LR 2.1 by Kuleshov Dmitrity"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,21 +195,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f573dd3d8145301f",
+  "active": "a4007873a53a8419",
   "lastOpenFiles": [
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764355941904.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764348896969.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764348686221.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764348126469.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764347388036.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764345516712.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764345178543.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764344906897.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764344904081.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764344004970.jpeg",
-    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764343821700.jpeg",
     "SHT/Labs/LR 2.1.md",
     "SHT/Labs/LR 2.1 by Kuleshov Dmitrity.md",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764401051224.jpeg",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764400756071.jpeg",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764400658584.jpeg",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764400605012.jpeg",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764400328275.jpeg",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764400150999.jpeg",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764399939471.jpeg",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764399623074.jpeg",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764399578606.jpeg",
+    "SHT/Labs/Materials/LR 2.1 by Kuleshov Dmitrity-1764399473202.jpeg",
     "SHT/Labs/Materials",
     "SHT/Seminars/Sem2.1/Sem2.1.md",
     "Guide md.md",
